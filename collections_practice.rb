@@ -48,6 +48,3 @@ def add_s(array)
     end
   end
 end
-
-numbers = [12, 3, 7, 93]
-words = ["Otto", "Charlotte", "Indy", "Andy", "Amanda"]
