@@ -20,6 +20,7 @@ def reverse_array(array)
   return array.reverse
 end
 
+# Long way of doing this... see notes on how to swap array indexes...
 def kesha_maker(array)
   kesha_words = Array.new
   array.each do |word|
